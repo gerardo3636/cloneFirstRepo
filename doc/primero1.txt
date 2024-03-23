@@ -1,1 +1,5 @@
 otro "primero" con mas letras de  información 
+mas
+menos
+por
+signo
